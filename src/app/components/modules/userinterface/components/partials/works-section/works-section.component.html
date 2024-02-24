@@ -1,0 +1,26 @@
+<section class="portfolio">
+   <div class="container">
+     <div class="section-title">
+       <span>About LOGO</span>
+       <h2>About LOGO</h2>
+     </div>
+     <div class="card__container">
+       <article class="card__article" *ngFor="let item of paginatedWorksData">
+         <img [src]="item.image" alt="image" class="card__img">
+         <div class="card__data">
+           <span class="card__description">{{ item.place }}</span>
+           <h2 class="card__title">{{ item.heading }}</h2>
+           <a class="card__button">Read More</a>
+         </div>
+       </article>
+     </div>
+     <div class="pagination p-4 mt-3">
+      <button class="btn btn-secondary mx-4" (click)="prevPage()" [disabled]="currentPage === 1">Prev</button>
+      <div>
+         <button class="btn btn-black-50 text-light bg-dark shadow-lg mx-1" *ngFor="let page of totalPagesArray" (click)="setPage(page)" [disabled]="currentPage === page">{{ page }}</button>
+       </div>
+       <button class="btn btn-secondary mx-4" (click)="nextPage()" [disabled]="currentPage === totalPages">Next</button>
+     </div>
+   </div>
+ </section>
+ 

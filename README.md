@@ -1,27 +1,28 @@
-# Frontend
+1. Can't bind to 'routerLink' since it isn't a known property of 'a'.
+## use RouterModule
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.1.0.
+2. 3d animation
+https://polypane.app/css-3d-transform-examples/
 
-## Development server
+3. 3d landing pages
+https://www.sliderrevolution.com/resources/css-animated-background/
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+4. slider pure html and css
+https://codepen.io/KamilDyrek/pen/ejmRxV
 
-## Code scaffolding
+5. slider pure css dot ...
+https://codepen.io/STKNG/pen/gVOPMO
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+6. split slick slide show
+https://codepen.io/supah/pen/zZaPeE
 
-## Build
+7. minimal static cards using icon
+https://codepen.io/lesliesamafful/pen/oNXgmBG
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+8. using one image view
+https://freefrontend.com/css-sliders/
 
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+9. plane card using about section
+https://freefrontend.com/css-cards/page/2/
+https://codepen.io/mor10/pen/oNBdamz
+https://codepen.io/arti2002/pen/LYRxeOG

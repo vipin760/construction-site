@@ -1,0 +1,15 @@
+<section class="icon-container p-4">
+    <div class="row">
+      <div class="column" *ngFor="let items of serviceData" data-aos="fade-down-right">
+        <div class="card">
+          <div class="icon-wrapper">
+            <i [class]="items.icon"></i>
+          </div>
+          <h3>{{items.heading}}</h3>
+          <p>
+            {{items.paragraph}}
+          </p>
+        </div>
+    </div>
+    </div>
+  </section>
