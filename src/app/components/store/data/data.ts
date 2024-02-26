@@ -23,120 +23,59 @@ export const serviceData:IService[] =[
 export const BlogCardData:IBlogCard[]=[
         {
             heading:"How Center6 Empowers their Customers with White Labeled Dundas BI Analytics - Webinars",
-            image:"/assets/img/architecture-1477094_1920.jpg",
+            image:"/assets/image/architecture-1477094_1920.jpg",
             paragraph:"We’ll show you how Dundas BI lets you use all of the existing data connections to inject data into R and then visualize and interact with the results in Dundas BI so more people get faster insights and make better decisions."
         },{
             heading:"How Center6 Empowers their Customers with White Labeled Dundas BI Analytics - Webinars",
-            image:"/assets/img/architecture-1477098_1920.jpg",
+            image:"/assets/image/architecture-1477098_1920.jpg",
             paragraph:"Trust us to provide you with the home of your dreams, characterized by top-notch quality and elegance!"
         },{
             heading:"How Center6 Empowers their Customers with White Labeled Dundas BI Analytics - Webinars",
-            image:"/assets/img/architecture-1477101_1920.jpg",
+            image:"/assets/image/architecture-1477101_1920.jpg",
             paragraph:"Our luxury projects are within reach as we handle every step from construction to delivery, ensuring affordability for all without intermediaries."
         }
 ]
 
 export const worksData:IWorksCard[]=[
     {
-        heading:'Midcentury Modern',
-        image:'/assets/img/architecture-1477094_1920.jpg',
+        heading:'Tropical Design',
+        image:'/assets/image/img1.jpeg',
         place:'kerala, kochin',
     },
     {
-        heading:'Traditional',
-        image:'/assets/img/architecture-1477098_1920.jpg',
-        place:'kerala , trivandrum',
-    },
-    {
         heading:'Neo-Industrial',
-        image:'/assets/img/architecture-1477098_1920.jpg',
+        image:'/assets/image/img3.jpeg',
         place:'kerala, kollam',
     },
     {
         heading:'Transitional',
-        image:'/assets/img/architecture-1477094_1920.jpg',
+        image:'/assets/image/img4.jpeg',
         place:'kerala, kochin',
     },
     {
-        heading:'Maximalist',
-        image:'/assets/img/architecture-1477094_1920.jpg',
+        heading:'Contemporary Design',
+        image:'/assets/image/img5.jpeg',
         place:'kerala, malappuram',
     },
     {
-        heading:'Modern Maximalist',
-        image:'/assets/img/architecture-1477094_1920.jpg',
+        heading:'Arabic Design',
+        image:'/assets/image/img11.jpeg',
         place:'kerala , calicut',
     },
     {
-        heading:'Farmhouse',
-        image:'/assets/img/architecture-1477094_1920.jpg',
-        place:'kerala, thissur',
-    },
-    {
-        heading:'Minimalist',
-        image:'/assets/img/architecture-1477094_1920.jpg',
+        heading:'Kerala traditional',
+        image:'/assets/image/img6.jpeg',
         place:'kerala, kochin',
     },
     {
-        heading:'Organic Minimalist',
-        image:'/assets/img/architecture-1477094_1920.jpg',
-        place:'kerala, kannur',
-    },
-    {
-        heading:'Eclectic',
-        image:'/assets/img/architecture-1477094_1920.jpg',
-        place:'kerala, idukki',
-    },
-    {
-        heading:'Midcentury Modern',
-        image:'/assets/img/architecture-1477094_1920.jpg',
-        place:'kerala, kochin',
-    },
-    {
-        heading:'Traditional',
-        image:'/assets/img/architecture-1477098_1920.jpg',
+        heading:'Arabic Design',
+        image:'/assets/image/img12.jpeg',
         place:'kerala , trivandrum',
     },
     {
-        heading:'Neo-Industrial',
-        image:'/assets/img/architecture-1477098_1920.jpg',
+        heading:'European Design',
+        image:'/assets/image/img13.jpeg',
         place:'kerala, kollam',
-    },
-    {
-        heading:'Transitional',
-        image:'/assets/img/architecture-1477094_1920.jpg',
-        place:'kerala, kochin',
-    },
-    {
-        heading:'Maximalist',
-        image:'/assets/img/architecture-1477094_1920.jpg',
-        place:'kerala, malappuram',
-    },
-    {
-        heading:'Modern Maximalist',
-        image:'/assets/img/architecture-1477094_1920.jpg',
-        place:'kerala , calicut',
-    },
-    {
-        heading:'Farmhouse',
-        image:'/assets/img/architecture-1477094_1920.jpg',
-        place:'kerala, thissur',
-    },
-    {
-        heading:'Minimalist',
-        image:'/assets/img/architecture-1477094_1920.jpg',
-        place:'kerala, kochin',
-    },
-    {
-        heading:'Organic Minimalist',
-        image:'/assets/img/architecture-1477094_1920.jpg',
-        place:'kerala, kannur',
-    },
-    {
-        heading:'Eclectic',
-        image:'/assets/img/architecture-1477094_1920.jpg',
-        place:'kerala, idukki',
-    },
-    
+    }
 
 ]

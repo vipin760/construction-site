@@ -66,7 +66,7 @@
     color: #3e2093;
   }
   .right-side .input-box{
-    height: 50px;
+    height: auto;
     width: 100%;
     margin: 12px 0;
   }
@@ -82,6 +82,13 @@
     padding: 0 15px;
     resize: none;
   }
+  .right-side .input-box input{
+    padding: 1rem;
+  }
+  .right-side .input-box p{
+    color: red;
+    padding: 2px;
+  }
   .right-side .input-box textarea{
     padding-top: 6px;
   }
@@ -89,7 +96,7 @@
     display: inline-block;
     margin-top: 12px;
   }
-  .right-side .button input[type="button"]{
+  .right-side .button input[type="submit"]{
     color: #fff;
     font-size: 18px;
     outline: none;
@@ -136,3 +143,44 @@
      margin-left: 0;
    }
   }
+
+  /* footer social icon */
+  .new_footer_top .f_social_icon a {
+    width: 44px;
+    height: 44px;
+    line-height: 43px;
+    background: transparent;
+    border: 1px solid #e2e2eb;
+    font-size: 24px;
+}
+.f_social_icon a {
+    width: 46px;
+    height: 46px;
+    border-radius: 50%;
+    font-size: 14px;
+    line-height: 45px;
+    margin-left: 1rem;
+    color: #858da8;
+    display: inline-block;
+    background: #ebeef5;
+    text-align: center;
+    -webkit-transition: all 0.2s linear;
+    -o-transition: all 0.2s linear;
+    transition: all 0.2s linear;
+}
+.f_social_icon a:hover{
+  background: #858da8;
+  color: #ebeef5;
+}
+.ti-facebook:before {
+    content: "\e741";
+}
+.ti-twitter-alt:before {
+    content: "\e74b";
+}
+.ti-vimeo-alt:before {
+    content: "\e74a";
+}
+.ti-pinterest:before {
+    content: "\e731";
+}
