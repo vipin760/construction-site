@@ -98,3 +98,10 @@ function doPost (e) {
 				.then(() => {  window.location.reload(); })
 				.catch(error => console.error('Error!', error.message))
 			})
+
+
+
+      headline div data-aos="fade-down"
+      picture data-aos="zoom-in-down"
+      card div data-aos="fade-up"
+     data-aos-duration="3000"
