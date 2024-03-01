@@ -53,29 +53,35 @@ export const worksData:IWorksCard[]=[
         place:'kerala, kollam',
     },
     {
-        heading:'Transitional',
-        image:'https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9pdcjjEn_TJmOCRDb7aL2YNBZZD4epumHCgOPmtHJgVR1zNtqADcwYWnroYdzswEx8fAcQgIe6pe8LrLPY0N7gItGAMtIGjekLtJcAAl9bg5B5wnQGQav7_AeASddF88cVnP_uN8u_ZIe925iP6fA8wOAjkLYQXFlnV1wXzGbyhnMp0dDXC9QVO9r460/s320/IMG-20240226-WA0006.jpg',
-        place:'kerala, kochin',
-    },
-    {
         heading:'Contemporary Design',
-        image:'https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4EUMgGN3O-h9c30OrqP7LtLqaP_bA71_WJtJWEyOh6hT3Gc6FsTRZxFb1AAo8A6kdpWNt6uMi4i2O6PLE1UoNOiQgloewilbd2u8Qz3TvupuCaBtwCGL5yoSLbTUHpsPd4SzHEOIuc-chAzN_MWJQmmjSXRt3FdO58ZFzOtVSmlNB5bxJW9MC1IOXnMk/s320/IMG-20240226-WA0011.jpg',
+        image:'https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjKv1HIiUQEnuY9aWvKIRGwwoGEP7jK8t882ZdoxN8M-YebhrDv1qdINKFvq52jg4t8rtA2BfJvwtpTZRrniVq_SKlAKkGumIoHT_bXOycRFnpu1gukxgGNYwI4bzlO0Fznb3gY3Lv2B7Ue971ybQAlqAfxo4vfecbeV6gmNBPgeCWn0exaR5Fv3oaRnUg/s320/IMG-20240226-WA0013.jpg',
         place:'kerala, malappuram',
     },
     {
         heading:'Arabic Design',
-        image:'https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjKv1HIiUQEnuY9aWvKIRGwwoGEP7jK8t882ZdoxN8M-YebhrDv1qdINKFvq52jg4t8rtA2BfJvwtpTZRrniVq_SKlAKkGumIoHT_bXOycRFnpu1gukxgGNYwI4bzlO0Fznb3gY3Lv2B7Ue971ybQAlqAfxo4vfecbeV6gmNBPgeCWn0exaR5Fv3oaRnUg/s320/IMG-20240226-WA0013.jpg',
+        image:'https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4EUMgGN3O-h9c30OrqP7LtLqaP_bA71_WJtJWEyOh6hT3Gc6FsTRZxFb1AAo8A6kdpWNt6uMi4i2O6PLE1UoNOiQgloewilbd2u8Qz3TvupuCaBtwCGL5yoSLbTUHpsPd4SzHEOIuc-chAzN_MWJQmmjSXRt3FdO58ZFzOtVSmlNB5bxJW9MC1IOXnMk/s320/IMG-20240226-WA0011.jpg',
         place:'kerala , calicut',
     },
     {
         heading:'Kerala traditional',
-        image:'https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjoVlGAxw2W-Jc5uwWkPQF63AsJSgcOPWI8Bm3fISJNwiiSLncjqclWx51mwU04ztujI_bXGwa3zTno9sQo_n5vnitnnauE77C7cKnjsyk3y7y0zQYfQ1YdjqGoLaNo7xDJa51fdGys1w8x4WndK7xhcNF2BwO3Venncufb3DTYJUyxm1-RUrg6O0YBKdM/s320/IMG-20240301-WA0047.jpg',
+        image:'https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDFC04N8Fm3WfPBoXsM4uyBO0vC9EewjxfZhxbadN8WkM8Ml5WsjABjqf4jeuSDdxcC_m4jY83unif6E-_S1jZezo1oS5mKRuNdEUWQKG9k28PL40YDjNzX49Amdm_MYz-2r-DxeD6b4AhbOmEFQLgaXdCup8ZlZIrHpO9VlqIMq1IipphPRJlTtdZcc4/s320/IMG-20240301-WA0049.jpg',
         place:'kerala, kochin',
     },
     {
         heading:'Arabic Design',
-        image:'https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDFC04N8Fm3WfPBoXsM4uyBO0vC9EewjxfZhxbadN8WkM8Ml5WsjABjqf4jeuSDdxcC_m4jY83unif6E-_S1jZezo1oS5mKRuNdEUWQKG9k28PL40YDjNzX49Amdm_MYz-2r-DxeD6b4AhbOmEFQLgaXdCup8ZlZIrHpO9VlqIMq1IipphPRJlTtdZcc4/s320/IMG-20240301-WA0049.jpg',
+        image:'https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjoVlGAxw2W-Jc5uwWkPQF63AsJSgcOPWI8Bm3fISJNwiiSLncjqclWx51mwU04ztujI_bXGwa3zTno9sQo_n5vnitnnauE77C7cKnjsyk3y7y0zQYfQ1YdjqGoLaNo7xDJa51fdGys1w8x4WndK7xhcNF2BwO3Venncufb3DTYJUyxm1-RUrg6O0YBKdM/s320/IMG-20240301-WA0047.jpg',
         place:'kerala , trivandrum',
     },
+    {
+        heading:'Transitional',
+        image:'assets/image/img12.jpeg',
+        place:'kerala, kochin',
+    },
+    {
+        heading:'Transitional',
+        image:'https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhUVeaoV7YIyOktwbpVQAkMlBDMAKpPi0jTN5cOmMtQ-XTeEH3K-0f3CSOUZwO4CZs51-MDasYuE09b4TEf7X5PP7d20NLUfWydB6H0C7RpLjgKJdtrc8UTBob8Po9DXw3HFqAPEMaFgTctd1JXRuyRWW-aXTLxf3kjrQIr8fSITxFZqWuUt1hxNtACjTo/s1280/IMG-20240301-WA0017.jpg',
+        place:'kerala, kochin',
+    },
+
 
 ]

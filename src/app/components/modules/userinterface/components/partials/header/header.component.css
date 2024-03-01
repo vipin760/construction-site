@@ -25,6 +25,9 @@
   .nav-item a:hover {
     color:#fff
   }
+  .active-link{
+    font-weight: 900;
+  }
   .nav-item{
     min-width:12vw;
   }
