@@ -44,7 +44,7 @@ export const worksData:IWorksCard[]=[
     },
     {
         heading:'Transitional',
-        image:'https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9pdcjjEn_TJmOCRDb7aL2YNBZZD4epumHCgOPmtHJgVR1zNtqADcwYWnroYdzswEx8fAcQgIe6pe8LrLPY0N7gItGAMtIGjekLtJcAAl9bg5B5wnQGQav7_AeASddF88cVnP_uN8u_ZIe925iP6fA8wOAjkLYQXFlnV1wXzGbyhnMp0dDXC9QVO9r460/s320/IMG-20240226-WA0006.jpg',
+        image:'https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgNNbLzcpWv3jJauvPvr9RAgPX2kSimlZtl69AJFD-h2-VZfjcBhixZECHC5qd6KhxsYrMZcAbbu_qovGd9oDMv8wx7rUqiYjrREQNXJcJs5b9z2cib86ARdHyQosqXt_1ZxAewqvWEBahh1F0ezlnNprUtWSFAGguSToL3cYIcN4q5a2zCtyXBe-x_wtg/s320/IMG-20240301-WA0006.jpg',
         place:'kerala, kochin',
     },
     {
