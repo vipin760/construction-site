@@ -38,6 +38,7 @@ html{
   font-family: "Montserrat", sans-serif;
   scroll-behavior: smooth;
 }
+
 @media (min-width: 1440px) {
   html {
     zoom: 1.5;
@@ -127,12 +128,12 @@ section {
 .section-title span {
   position: absolute;
   top: 30px;
-  color: #f1eded;
+  color: #f1f1f7;
   left: 0;
   right: 0;
   z-index: 1;
-  font-weight: 700;
-  font-size: 52px;
+  font-weight: 600;
+  font-size: 32px;
   text-transform: uppercase;
   line-height: 0;
 }
