@@ -1,7 +1,7 @@
 #hero {
     width: 100%;
     height: calc(100vh - 110px);
-    background: url("src/assets/image/cta.jpeg") top center;
+    background: url("/assets/image/cta.jpeg") top center;
     background-size: cover;
     position: relative;
   }
