@@ -1,5 +1,7 @@
 #mainNavigation .navigation .image img{
-    width: 6%;
+    width: 8%;
+    padding: 0;
+    margin: 0;
   }
   #mainNavigation a {
     font-family: 'Cabin', sans-serif;
